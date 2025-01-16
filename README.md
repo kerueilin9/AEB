@@ -9,6 +9,7 @@ Embedding Model: sentence-transformers/all-MiniLM-L6-v2(HuggingFaceEmbeddings)
 
 ## Result
 
+[SElab_Industry_Academia_Collaboration](https://smith.langchain.com/public/4313b067-7883-4c73-b8f8-281d7ad9ba74/r)
 [LangSmith](https://smith.langchain.com/public/dd752483-5f14-4f76-8336-29d35ae12802/r)
 
 ## 流程圖
@@ -58,5 +59,4 @@ Embedding Model: sentence-transformers/all-MiniLM-L6-v2(HuggingFaceEmbeddings)
 - 編譯狀態圖，生成可執行的應用邏輯。
 
 ## PDF
-
-[SElab_Industry_Academia_Collaboration](https://smith.langchain.com/public/4313b067-7883-4c73-b8f8-281d7ad9ba74/r)
+[SElab_Industry_Academia_Collaboration](docs/SElab_Industry_Academia_Collaboration.pdf)
